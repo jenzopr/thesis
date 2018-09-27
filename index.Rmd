@@ -1,0 +1,15 @@
+---
+title: "Methods for High-Throughput Screenings"
+author: "Jens Preussner"
+date: "Bad Nauheim, 2018"
+papertype: Dissertation
+site: bookdown::bookdown_site
+logo: header-thesis.pdf
+abstract: |
+  `r if(knitr:::is_latex_output()) paste(readLines("_abstract.Rmd"), collapse = '\n  ')`
+chapterstyle: southall
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

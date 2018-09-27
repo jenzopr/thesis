@@ -1,0 +1,127 @@
+\documentclass[11pt,a4paper,twoside,openright,openbib]{memoir}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% redefining the textblocksize
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlrmarginsandblock{1in}{1.5in}{*}
+\checkandfixthelayout
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% allow characters common in western europe
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{epsfig}
+\usepackage[figuresright]{rotating}
+
+% Hyperlinks and adjustments for memoir
+\usepackage{hyperref}
+\usepackage{memhfixc}
+
+% Math / Equation related packages
+\usepackage{dsfont}
+\usepackage{nicefrac}
+\usepackage{amssymb}
+
+%---- memoir package specialties
+%\pagestyle{companion}
+\pagestyle{Ruled}
+\setlength{\epigraphwidth}{7cm}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\maxsecnumdepth{subsection}
+
+% change standard font
+%\usepackage{libertinus}
+\renewcommand{\sfdefault}{cmr}
+
+
+% set figure resp. table name and number bold
+\makeatletter
+\renewcommand{\fnum@figure}{\textbf{\figurename~\thefigure}}
+\renewcommand{\fnum@table}{\textbf{\tablename~\thetable}}
+\makeatother
+
+% setting the authors for a verse
+\newcommand{\attrib}[1]{%
+	\nopagebreak{\raggedleft\footnotesize #1\par}}
+
+%---- general information ----
+\author{
+  \small{submitted by} \vspace{.5cm} 											\\
+	\Large{\textbf{$author$}}}
+\title{
+	\textbf{\vspace{-2.5cm}
+	$if(logo)$
+	  \includegraphics[width=16.0cm]{logo/$logo$} \\
+	$endif$
+	\vspace{3cm}\Huge{$title$} }\\
+	\vspace{1cm}
+	\Large{\textbf{$papertype$}} \\
+	\normalsize{$degreetext$}}
+
+\date{}
+
+% Setting a different chapter style
+$if(chapterstyle)$
+\chapterstyle{$chapterstyle$}
+$endif$
+
+% Enable proper syntax highlighting and shading
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+\begin{document}
+\frontmatter
+
+\begin{titlingpage}
+  \begin{center}
+    \maketitle
+    \vspace{-1cm}
+    \small{submitted to the} \\
+    \small{$institution$}
+
+    \begin{tabular}{ll}
+    & \\
+    & \\
+    & \\
+    Advisor: & $advisor$ \\
+    Co-advisor: & $coadvisor$ \\
+    Supervisor: & $supervisor$ \\
+    & \\
+    \end{tabular}
+
+    \vspace{\fill}
+    \small{$date$}
+  \end{center}
+\end{titlingpage}
+
+\setcounter{page}{1}
+
+$if(abstract)$
+  \abstractintoc
+  \abstractnum
+  \begin{abstract}
+  $abstract$
+  \end{abstract}
+$endif$
+
+\cleardoublepage
+
+%---- table of contents ----
+\tableofcontents*
+
+\cleardoublepage
+
+%---- list of figures ----
+\listoffigures
+
+%---- the mainmatter ----
+\mainmatter
+$body$
+
+\end{document}
