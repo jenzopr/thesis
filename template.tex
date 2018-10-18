@@ -16,6 +16,7 @@
 \usepackage{latexsym}
 \usepackage{epsfig}
 \usepackage[figuresright]{rotating}
+\usepackage{pdfpages}
 
 % Hyperlinks and adjustments for memoir
 \usepackage{hyperref}
@@ -51,7 +52,7 @@
 
 %---- general information ----
 \author{
-  \small{submitted by} \vspace{.5cm} 											\\
+  \small{by} \vspace{.5cm} 											\\
 	\Large{\textbf{$author$}}}
 \title{
 	\textbf{\vspace{-2.5cm}
@@ -60,7 +61,8 @@
 	$endif$
 	\vspace{3cm}\Huge{$title$} }\\
 	\vspace{1cm}
-	\Large{\textbf{$papertype$}} \\
+	\Large{\textbf{$papertype$}}\\
+	\vspace{0.2cm}
 	\normalsize{$degreetext$}}
 
 \date{}
@@ -82,18 +84,33 @@ $endif$
   \begin{center}
     \maketitle
     \vspace{-1cm}
-    \small{submitted to the} \\
-    \small{$institution$}
+    \small{$submitted-to-text$} \\
+    \small{$submitted-to$}
 
+    $if(prepared-at)$
+    \vspace{0.5cm}
+    \small{$prepared-at-text$} \\
+    \small{$prepared-at$}
+    $endif$
+
+    $if(first-reviewer)$
     \begin{tabular}{ll}
     & \\
     & \\
     & \\
-    Advisor: & $advisor$ \\
-    Co-advisor: & $coadvisor$ \\
-    Supervisor: & $supervisor$ \\
+    First reviewer: & $first-reviewer$ \\
+    $if(second-reviewer)$
+    Second reviewer: & $second-reviewer$ \\
+    $endif$
+    $if(first-examiner)$
+    First examiner: & $first-examiner$ \\
+    $endif$
+    $if(second-examiner)$
+    Second examiner: & $second-examiner$ \\
+    $endif$
     & \\
     \end{tabular}
+    $endif$
 
     \vspace{\fill}
     \small{$date$}

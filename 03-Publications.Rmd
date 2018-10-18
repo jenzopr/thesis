@@ -1,0 +1,11 @@
+# Publications
+
+## MIRPIPE: quantification of microRNAs in niche model organisms
+
+\includepdf[pages={-}]{publications/2014_mirpipe.pdf}
+
+## ADMIRE: analysis and visualization of differential methylation in genomic regions using the In nium HumanMethylation450 Assay
+
+\includepdf[pages={-}]{publications/2015_admire.pdf}
+
+## A molecular subtype of cancer originating from adult stem cells during regeneration is driven by Dux transcription factors
