@@ -1,17 +1,16 @@
 # Preface {-}
 
-## R Markdown {-}
+## Thesis reviewers {-}
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**First reviewer** Prof. Dr. Alexander Goesmann, *Bioinformatics and Systems Biology, Justus-Liebig-University, Giessen, Germany*
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+**Second reviewer** Prof. Dr. Thomas Braun, *Max Planck Institute for Heart and Lung Research, Bad Nauheim, Germany*
 
-## Including Plots {-}
+**First examiner**
 
-You can also embed plots, for example:
+**Second examiner**
 
-```{r pressure, echo=FALSE, caption = "Testfigure"}
-plot(pressure)
-```
+## Declaration {-}
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I declare that I have completed this dissertation without the unauthorized help of a second party and only with the assistance acknowledged therein. I have appropriately acknowledged and referenced all text passages that are derived from published literature, and all information that relates to verbal communications. I have abided by the principles of good scientific conduct laid down in the charter of the Justus Liebig University Giessen in carrying out the investigations described in the dissertation.
+
