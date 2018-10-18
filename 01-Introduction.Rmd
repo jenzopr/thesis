@@ -1,0 +1,16 @@
+# Introduction
+
+## Rationale
+
+```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd"}
+```
+
+## Background
+
+## Lack of knowledge and objectives
+
+## Paper outline
+
+## Results and discussion
+
+## References

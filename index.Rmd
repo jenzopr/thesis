@@ -3,7 +3,7 @@ title: "Methods for High-Throughput Screenings"
 author: "Jens Preussner"
 date: "Bad Nauheim, 2018"
 papertype: Cumulative inaugural dissertation
-degreetext: "  \nfor the degree of  \nDoctor rerum naturalium (Dr. rer. nat.)"
+degreetext: "  \nin partial fulfillment of the requirments for the degree of  \nDoctor rerum naturalium (Dr. rer. nat.)"
 submitted-to: |
   Faculty of Biology and Chemistry
   
@@ -20,6 +20,8 @@ prepared-at: |
 prepared-at-text: prepared in the
 #first-reviewer: Prof. Dr. Alexander Goesmann
 #second-reviewer: Prof. Dr. Thomas Braun
+#first-examiner:
+#second-examiner:
 site: bookdown::bookdown_site
 logo: header-thesis.pdf
 abstract: |

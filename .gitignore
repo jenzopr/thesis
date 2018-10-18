@@ -1,5 +1,8 @@
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 packrat/lib*/
+_bookdown_files/
+

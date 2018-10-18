@@ -127,6 +127,15 @@ $if(abstract)$
   \end{abstract}
 $endif$
 
+$if(abstract-de)$
+  \cleardoublepage
+  \abstractintoc
+  \abstractnum
+  \begin{abstract}
+  $abstract-de$
+  \end{abstract}
+$endif$
+
 \cleardoublepage
 
 %---- table of contents ----
@@ -136,6 +145,13 @@ $endif$
 
 %---- list of figures ----
 \listoffigures
+
+\cleardoublepage
+
+%---- optional preface
+$if(preface)$
+  $preface$
+$endif$
 
 %---- the mainmatter ----
 \mainmatter
