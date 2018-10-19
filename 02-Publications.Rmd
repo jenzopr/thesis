@@ -2,10 +2,33 @@
 
 ## MIRPIPE: quantification of microRNAs in niche model organisms
 
+Carsten Kuenne^1,‡^, Jens Preussner^1,‡^, Mario Herzog^1^, Thomas Braun^2^ and Mario Looso^1^
+
+------------------    ---------------------------------------------------------------------------------------------------------------------
+**Affiliations**      ^1^ Group of Bioinformatics and
+                      ^2^ Department of Caridac Remodelling
+                          Max Planck Institute for Heart and Lung Research
+                      ^‡^ These authors contributed equally
+**Journal**           Bioinformatics, *Oxford Journals*
+**Date, Issue**       2014, Vol. 30 no. 23
+**Pages**             3412 - 3413
+**DOI**               10.1093/bioinformatics/btu573
+------------------    ---------------------------------------------------------------------------------------------------------------------
+
+
+#### Contributed to
+implementation, data analysis, writing
+
+
+
 \includepdf[pages={-}]{publications/2014_mirpipe.pdf}
 
 ## ADMIRE: analysis and visualization of differential methylation in genomic regions using the In nium HumanMethylation450 Assay
 
+Jens Preussner, Julia Bayer, Carsten Kuenne and Mario Looso
+
 \includepdf[pages={-}]{publications/2015_admire.pdf}
 
 ## A molecular subtype of cancer originating from adult stem cells during regeneration is driven by Dux transcription factors
+
+Jens Preussner^1,2,‡^, Jiasheng Zhong^1,‡^, Krishnamoorthy Sreenivasan^1^, Stefan Günther^1,3^, Thomas Engleitner^4^, Carsten Künne^1,2^, Markus Glatzel^5^, Roland Rad^4,6^, Mario Looso^2^, Thomas Braun^1,7,8^ and Johnny Kim^1,7^*

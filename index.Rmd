@@ -26,6 +26,8 @@ site: bookdown::bookdown_site
 logo: header-thesis.pdf
 abstract: |
   `r if(knitr:::is_latex_output()) paste(readLines("_abstract.Rmd"), collapse = '\n  ')`
+preface: | 
+  `r if(knitr:::is_latex_output()) paste(readLines("_preface.Rmd"), collapse = '\n  ')`
 chapterstyle: southall
 ---
 

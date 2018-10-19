@@ -27,6 +27,9 @@
 \usepackage{nicefrac}
 \usepackage{amssymb}
 
+% Tables
+\usepackage{longtable}
+
 %---- memoir package specialties
 %\pagestyle{companion}
 \pagestyle{Ruled}
@@ -119,6 +122,16 @@ $endif$
 
 \setcounter{page}{1}
 
+%---- optional preface
+$if(preface)$
+  \chapter*{Preface}
+  \addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+  \addcontentsline{toc}{chapter}{Preface}
+  $preface$
+  \addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+$endif$
+
+%---- optional abstract
 $if(abstract)$
   \abstractintoc
   \abstractnum
@@ -145,13 +158,6 @@ $endif$
 
 %---- list of figures ----
 \listoffigures
-
-\cleardoublepage
-
-%---- optional preface
-$if(preface)$
-  $preface$
-$endif$
 
 %---- the mainmatter ----
 \mainmatter
