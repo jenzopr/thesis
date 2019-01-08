@@ -1,0 +1,6 @@
+### Lack of knowledge
+
+### Objectives
+
+A host of applications exist in the field of RNA-Seq miRNA analyses, which attempt to quantify transcripts based on reference genomes or reference miRNAs, using different degrees of granularity including subsequences and precursors of miRNAs, deviating handling of technical and biological variation, offering a range of interfaces to the user (web, command line, graphical user interfaces), and bearing variable demands considering user expertise in informatics and biological interpretation.
+

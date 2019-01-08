@@ -21,7 +21,7 @@ implementation, data analysis, writing
 
 \includepdf[pages={-}]{publications/2014_mirpipe.pdf}
 
-## ADMIRE: analysis and visualization of differential methylation in genomic regions using the In nium HumanMethylation450 Assay
+## ADMIRE: analysis and visualization of differential methylation in genomic regions using the Infinium HumanMethylation450 Assay
 
 Jens Preussner^1^, Julia Bayer^1^, Carsten Kuenne^1^ and Mario Looso^1^
 

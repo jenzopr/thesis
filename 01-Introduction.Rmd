@@ -1,16 +1,27 @@
 # Introduction
 
-## Rationale
+## Rationale {#rationale}
 
 ```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd"}
 ```
 
-## Background
+## Background {#background}
+
+```{r introduction-cancer-theory, echo = FALSE, child = "introduction/_cancer-theory.Rmd"}
+```
 
 ## Lack of knowledge and objectives
 
-## Paper outline
+```{r introduction-objectives, echo = FALSE, child = "introduction/_objectives.Rmd"}
+```
+
+## Thesis contributions
+
+```{r introduction-contrib, echo = FALSE, child = "introduction/_contributions.Rmd"}
+```
 
 ## Results and discussion
 
-## References
+## References {-}
+
+`r if (knitr::is_html_output()) '# References {-}'`

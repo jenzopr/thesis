@@ -5,4 +5,5 @@
 .Ruserdata
 packrat/lib*/
 _bookdown_files/
+*.log
 
