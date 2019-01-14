@@ -29,6 +29,9 @@ abstract: |
 preface: | 
   `r if(knitr:::is_latex_output()) paste(readLines("_preface.Rmd"), collapse = '\n  ')`
 chapterstyle: southall
+bibliography: ["Thesis.bib"]
+biblio-style: "apalike"
+link-citations: true
 ---
 
 ```{r setup, include=FALSE}
