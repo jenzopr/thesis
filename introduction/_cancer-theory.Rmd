@@ -1,5 +1,1 @@
 The foundation of modern oncology, i.e. cancer classification, diagnosis, therapy and research, was laid out in the early nineteenth century by Johannes Müller, a professor of anatomy and pathology and Director of the Royal Anatomical Museum in Berlin. Using microscopic pathology to examine tissues of *morbid growth*, Müller recognised, for the first time, the cellular structure of cancer and how it resembled the tissue from which the cancerous growth springs. The origin of cancer and its development has since then been subject of debate in several theories, most of which seeking its origin in a transformation of a healthy cell into a disease state characterised by uncoordinated and excessive cell growth.
-
-### Small RNA mediated carcinogenesis {#mirna}
-
-### Epigenetic mechanisms in cancer initiation and progression {#epigenetic}
