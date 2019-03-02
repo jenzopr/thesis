@@ -7,7 +7,16 @@
 
 ## Background {#background}
 
-```{r introduction-cancer-theory, echo = FALSE, child = "introduction/_cancer-theory.Rmd"}
+```{r introduction-background, echo = FALSE, child = "introduction/_cancer-theory.Rmd"}
+```
+
+```{r introduction-somatic-mutations, echo = FALSE, child = "introduction/_somatic-mutations.Rmd"}
+```
+
+```{r introduction-disrupted-context, echo = FALSE, child = "introduction/_disrupted-context.Rmd"}
+```
+
+```{r introduction-stem-cells, echo = FALSE, child = "introduction/_stem-cells.Rmd"}
 ```
 
 ## Lack of knowledge and objectives
