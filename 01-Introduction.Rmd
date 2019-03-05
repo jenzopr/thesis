@@ -19,6 +19,9 @@
 ```{r introduction-stem-cells, echo = FALSE, child = "introduction/_stem-cells.Rmd"}
 ```
 
+```{r introduction-stem-cells, echo = FALSE, child = "introduction/_muscle-regeneration.Rmd"}
+```
+
 ## Lack of knowledge and objectives
 
 ```{r introduction-objectives, echo = FALSE, child = "introduction/_objectives.Rmd"}
