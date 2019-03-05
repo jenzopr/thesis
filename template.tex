@@ -53,22 +53,24 @@
 \newcommand{\attrib}[1]{%
 	\nopagebreak{\raggedleft\footnotesize #1\par}}
 
-%---- general information ----
-\author{
-  \small{by} \vspace{.5cm} 											\\
-	\Large{\textbf{$author$}}}
-\title{
-	\textbf{\vspace{-2.5cm}
-	$if(logo)$
-	  \includegraphics[width=16.0cm]{logo/$logo$} \\
-	$endif$
-	\vspace{3cm}\Huge{$title$} }\\
-	\vspace{1cm}
-	\Large{\textbf{$papertype$}}\\
-	\vspace{0.2cm}
-	\normalsize{$degreetext$}}
-
-\date{}
+% Thesis title
+\newcommand*{\thesistitle}{
+  \begingroup
+  \centering{
+    $if(logo)$
+    \includegraphics[width=16.0cm]{logo/$logo$}\\
+    $endif$
+    \huge{$title$}\\
+    \vspace*{1cm}
+    \Large{\textbf{$papertype$}}\\
+    \vspace*{0.2cm}
+    \normalsize{in partial fulfillment of the requirments for the degree of}\\
+    \normalsize{$degree$}\\
+    \vspace*{1cm}
+    \normalsize{by}\\{\Large{\textbf{$author$}}\\}
+  }
+  \endgroup
+}
 
 % Setting a different chapter style
 $if(chapterstyle)$
@@ -83,41 +85,30 @@ $endif$
 \begin{document}
 \frontmatter
 
+% Title page
 \begin{titlingpage}
-  \begin{center}
-    \maketitle
-    \vspace{-1cm}
-    \small{$submitted-to-text$} \\
-    \small{$submitted-to$}
+\thesistitle
+\vspace*{2cm}
 
-    $if(prepared-at)$
-    \vspace{0.5cm}
-    \small{$prepared-at-text$} \\
-    \small{$prepared-at$}
-    $endif$
+$if(submitted-to)$
+\centering{
+  $submitted-to-text$\\
+  $submitted-to$
+  \vspace*{0.5cm}
+}
+$endif$
 
-    $if(first-reviewer)$
-    \begin{tabular}{ll}
-    & \\
-    & \\
-    & \\
-    First reviewer: & $first-reviewer$ \\
-    $if(second-reviewer)$
-    Second reviewer: & $second-reviewer$ \\
-    $endif$
-    $if(first-examiner)$
-    First examiner: & $first-examiner$ \\
-    $endif$
-    $if(second-examiner)$
-    Second examiner: & $second-examiner$ \\
-    $endif$
-    & \\
-    \end{tabular}
-    $endif$
+$if(prepared-at)$
+\centering{
+  $prepared-at-text$\\
+  $prepared-at$
+}
+$endif$
 
-    \vspace{\fill}
-    \small{$date$}
-  \end{center}
+\centering{
+  \vspace{\fill}
+  \small{$date$}
+}
 \end{titlingpage}
 
 \setcounter{page}{1}

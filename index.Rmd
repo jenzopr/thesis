@@ -1,27 +1,25 @@
 ---
 title: "Methods for High-Throughput Screenings"
 author: "Jens Preussner"
-date: "Bad Nauheim, 2018"
+date: "Bad Nauheim, 2019"
 papertype: Cumulative inaugural dissertation
-degreetext: "  \nin partial fulfillment of the requirments for the degree of  \nDoctor rerum naturalium (Dr. rer. nat.)"
+degree: Doctor rerum naturalium (Dr. rer. nat.)
+submitted-to-text: submitted to the
 submitted-to: |
   Faculty of Biology and Chemistry
-  
+
   Justus-Liebig-University
-  
+
   Giessen, Germany
-submitted-to-text: submitted to the
+
+prepared-at-text: prepared in the
 prepared-at: |
   Department of Cardiac Remodelling
-  
+
   Max Planck Insititute for Heart and Lung Research
-  
+
   Bad Nauheim, Germany
-prepared-at-text: prepared in the
-#first-reviewer: Prof. Dr. Alexander Goesmann
-#second-reviewer: Prof. Dr. Thomas Braun
-#first-examiner:
-#second-examiner:
+
 site: bookdown::bookdown_site
 logo: header-thesis.pdf
 abstract: |
