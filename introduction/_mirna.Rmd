@@ -1,3 +1,13 @@
 ### Small RNA mediated carcinogenesis {#mirna}
 
+Micro RNAs (miRNAs) are small, non-coding RNAs of ~22 nucleotides and serve numerous roles in negative gene regulation. In animals, most miRNAs exhibit their regulatory role through imperfect binding of a sequence in the 3' untranslated region (3'-UTR) of messenger RNA from target genes. Complementary binding can either repress translation of target gene(s) or mediate mRNA degradation, through a mechanism similar to RNA interference in plants (Jones-Rhoades).  
+
+MiRNA biogenesis begins with the transcription of either independent miRNA genes or intronic regions from protein-coding genes into large precursor molecules (pri-miRNAs). Imperfect base-paring of folding pri-miRNAs results in hairpin structures that are further cleaved by an RNase III type endonuclease (Drosha, RN3) together with a double-stranded RNA binding domain (dsRBD) protein (Han et. al.) into ~70 nucleotide hairpins called pre-miRNAs, leaving a short characteristic single-stranded overhang at the 3'-end of pre-miRNAs. Exportin 5 recognizes such an overhang and undertakes transport of pre-miRNAs to the cytoplasm (Yi et. al), where a second complex of Dicer, a RNase III type enzyme, and TRBP, a dsRBD protein, cleave the pre-miRNA twice into a miRNA duplex (Chimdrimada et. al.). One strand (the mature miRNA) preferentially enters the miRNA-induced silencing complex (miRISC), while the other is degraded, but would have been competent for miRNA-mediated silencing as well (Schwarz et. al.). Imperfect double-strand pairing of pre-miRNAs as well as imperfect digestion by Drosha and Dicer result in miRNAs with varying 3'- (silent modification, *isomiR*) or 5'-ends, that might affect complementary binding, representing a challenge during the computational miRNA quantification following RNASeq. 
+
+Forward genetic experiments have revealed great importance not only of the miRNA machinery, exemplified by muscle-specific knockout of Dicer leading to complete embryonic development but perinatal death (Bernstein), but also of numerous individual miRNAs with roles processes, like timing of development (Abrahante), differentiation (Chen) and growth control (Brennecke). Since phenotypic consequence remains elusive for the vast majority of miRNA, also computational approaches can and have been used to elucidate miRNA function (Cite). 
+
+
+Consequently, myomiRs (miR-1, miR-133 and miR-206) are repeatedly reported to be misregulated in Duchenne Muscular Dystrophy (DMD) (see (Alexander, Kunkel) for a review).
+
 Crossreference miRNA mediated dysregulation of myogenic differentiation
+Crossreference miR-183 mediated downregulation of tumor supressor Egr-1 (Sarver et. al)

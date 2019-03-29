@@ -22,6 +22,9 @@
 ```{r introduction-stem-cells, echo = FALSE, child = "introduction/_muscle-regeneration.Rmd"}
 ```
 
+```{r introduction-mirna, echo = FALSE, child = "introduction/_mirna.Rmd"}
+```
+
 ## Lack of knowledge and objectives
 
 ```{r introduction-objectives, echo = FALSE, child = "introduction/_objectives.Rmd"}
@@ -33,6 +36,9 @@
 ```
 
 ## Results and discussion
+
+```{r introduction-results, echo = FALSE, child = "introduction/_results.Rmd"}
+```
 
 ## References {-}
 
