@@ -1,0 +1,9 @@
+### Epigenetic mechanisms in cancer initiation and progression {#epigenetic}
+
+Development of normal tissue, as discussed in chapter \@ref(regeneration), requires distinct cell types to arise during lineage-specification. Although of identical genomic information, different cell types exhibit different gene expression programs and are able to inherit such information to their progeny. How are such expression pattern specified and maintained? Nowadays, it is accepted that not only information encoded as DNA in a cells genome, but also *epigenetic* information (i.e. the stable and heritable non-genetic counterpart to DNA) provides an important layer of regulation and plays pivotal roles in cell lineage specification and cell identity maintenance (Margueron). In eurkaryotes, DNA is organized in a massive macromolecular complex called chromatin. Chromatin is formed by wrapping 147 base pairs of DNA around histone proteins into nucleosomes, then compacting those further into topologically associated domains (TADs) separated by insulator proteins to allow independent and specific regulation. The activity of a genomic locus is controlled by its chromatin organization. Accessible chromatin structures expose DNA elements, like proximal gene promoter sequences or distal enhancer sequences, to regulatory transcription factors and the transcriptional machinery to drive gene expression. Compact and inaccessible chromatin structures prevent such activity and render a locus inactive. 
+
+
+- Epigenetic plasticity in normal (skeletal muscle) development, waddington landscape, TADs, CTCF
+- DNA methylation and CTCF in IDH-mutants
+- Crossreference loss of imprinting / IGF signalling in RMS (https://onlinelibrary.wiley.com/doi/full/10.1002/path.2499)
+

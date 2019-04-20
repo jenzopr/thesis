@@ -25,6 +25,9 @@
 ```{r introduction-mirna, echo = FALSE, child = "introduction/_mirna.Rmd"}
 ```
 
+```{r introduction-epigenetics, echo = FALSE, child = "introduction/_epigenetics.Rmd"}
+```
+
 ## Lack of knowledge and objectives
 
 ```{r introduction-objectives, echo = FALSE, child = "introduction/_objectives.Rmd"}
