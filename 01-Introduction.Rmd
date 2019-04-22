@@ -19,7 +19,7 @@
 ```{r introduction-stem-cells, echo = FALSE, child = "introduction/_stem-cells.Rmd"}
 ```
 
-```{r introduction-stem-cells, echo = FALSE, child = "introduction/_muscle-regeneration.Rmd"}
+```{r introduction-regeneration, echo = FALSE, child = "introduction/_muscle-regeneration.Rmd"}
 ```
 
 ```{r introduction-mirna, echo = FALSE, child = "introduction/_mirna.Rmd"}
