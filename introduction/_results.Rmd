@@ -1,0 +1,11 @@
+This thesis provides methodological development in three areas of cancer bioinformatics, targeting detection and quantification of miRNAs, analysis of CpG-site methylation as an epigenetic mechanism and characterization of the cellular and molecular basis of cancer. 
+
+
+### Graph-based and reference-free miRNA detection and quantification
+
+### Analysis of DNA methylation 
+
+### Genomic analysis of fusion-negative rhabdomyosarcoma
+
+### Cancer insights / Conclusion
+
