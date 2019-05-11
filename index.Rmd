@@ -1,5 +1,5 @@
 ---
-title: "Methods for High-Throughput Screenings"
+title: "Methods for analysis of data from high-throughput omics experiments"
 author: "Jens Preussner"
 date: "Bad Nauheim, 2019"
 papertype: Cumulative inaugural dissertation
@@ -27,7 +27,7 @@ abstract: |
 preface: | 
   `r if(knitr:::is_latex_output()) paste(readLines("_preface.Rmd"), collapse = '\n  ')`
 chapterstyle: southall
-bibliography: ["Thesis.bib"]
+bibliography: ["Thesis.bib", "Objectives.bib", "Discussion.bib"]
 biblio-style: "apalike"
 link-citations: true
 ---

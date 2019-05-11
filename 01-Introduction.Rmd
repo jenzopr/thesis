@@ -2,7 +2,7 @@
 
 ## Rationale {#rationale}
 
-```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd"}
+```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd", eval = FALSE}
 ```
 
 ## Background {#background}
