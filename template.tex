@@ -1,6 +1,5 @@
 \documentclass[11pt,a4paper,twoside,openright,openbib]{memoir}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % redefining the textblocksize
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,6 +74,8 @@
 % Setting a different chapter style
 $if(chapterstyle)$
 \chapterstyle{$chapterstyle$}
+% Hack: Reduce space after chapter title
+\setlength{\afterchapskip}{10pt}
 $endif$
 
 % Enable proper syntax highlighting and shading

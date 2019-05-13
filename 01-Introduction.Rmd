@@ -2,7 +2,7 @@
 
 ## Rationale {#rationale}
 
-```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd", eval = FALSE}
+```{r introduction-rationale, echo = FALSE, child = "introduction/_rationale.Rmd"}
 ```
 
 ## Background {#background}
@@ -42,6 +42,10 @@
 
 ```{r introduction-results, echo = FALSE, child = "introduction/_results.Rmd"}
 ```
+
+## Conclusion
+
+*This part remains to be written. A part of the conclusion could be the role of stem cell quiescence as cellular mechanism to prevent tumorigenesis, another part could ask for the effects of reintroduction of p53 as therapeutic strategy in light of the findings (like an outlook). Further, a link to personaliced medicine should be drawn.*
 
 ## References {-}
 
