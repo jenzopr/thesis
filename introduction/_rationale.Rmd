@@ -4,8 +4,6 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.   
+This thesis provides methodological development within the scope of cancer bioinformatics, focusing on analysis of data from high-throughput genomic experiments to support the characterization of the molecular basis and the investigation of mechanisms underlying cancer formation. The objectives are: 1) to provide an algorithm for rapid detection and quantification of microRNAs, 2) to develop a software pipeline for analysis and visualization of CpG-site methylation in a case-control setting, and 3) to apply previously developed genomic analysis in order to investigate the cellular and molecular origin of rhabdomyosarcoma.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+This thesis will help to provide methodological tools that will enable faster and efficient coral genomic data generation needed for testing hypothesis of co-evolution, co-diversification and functioning in the coral holobiont.

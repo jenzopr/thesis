@@ -1,5 +1,5 @@
 ---
-title: "Methods for analysis of data from high-throughput omics experiments"
+title: "Methods for data analysis in high throughput-omics applications"
 author: "Jens Preussner"
 date: "Bad Nauheim, 2019"
 papertype: Cumulative inaugural dissertation
