@@ -45,8 +45,15 @@
 
 ## Conclusion
 
+This thesis aimed at providing methodological development within the scope of computational cancer biology and set out to conduct an integrative analysis to investigate the molecular and cellular origin of a childhood cancer, embryonal rhabdomyosarcoma. Two computatinal software solutions have been contributed to enable characterization and quantification of the entire regulatory repertoire of miRNAs from high throughput sequencing experiments, and to facilitate analysis of DNA methylation in a case-control setting. Importantly, the unique statistical approach applied during DNA methylation analysis overcomes previous limitations and enables differential analysis within abitrary genomic regions. 
+
+- cellular origin of ERMS, molecular origin of ERMS
+- mechanistic insight in Duxbl tumor formation - quiescence, reintroduction of p53
+- therapeutic stretegy, treatment, personalized medicine
+
 *This part remains to be written. A part of the conclusion could be the role of stem cell quiescence as cellular mechanism to prevent tumorigenesis, another part could ask for the effects of reintroduction of p53 as therapeutic strategy in light of the findings (like an outlook). Further, a link to personaliced medicine should be drawn.*
 
 ## References {-}
 
 `r if (knitr::is_html_output()) '# References {-}'`
+\printbibliography[segment=\therefsegment,heading=subbibliography]
