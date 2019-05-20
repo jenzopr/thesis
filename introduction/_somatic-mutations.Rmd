@@ -1,4 +1,4 @@
-### Somatic mutations transform cells into cancer cells {#smt}
+### Genomic alterations transform cells into cancer cells {#smt}
 
 While normal cells retain their ability to control the production and release of growth-promoting signals and thereby provide tissue architecture and homeostasis of cell number, cancer cells are characterised by chronic proliferation and constant re-entry into the growth-and-division cycle. The somatic mutation theory postulates that molecular events such as genomic mutations preceed cell transformation and provide the cell with the ability to overcome cell control mechanisms. By such, transformed cancers cells are able to e.g. escape the control of growth supressors, bypass mechanism of induced cell death, delay or avoid entry into cell senescence, induce angiogenesis and/or alter cell-to-cell contacts to activate invasion of surrounding tissue [@hanahanHallmarksCancerNext2011a]. At the core of this theory, mutations in so-called master genes, i.e. genes that have the potential to cause cancer (oncogenes) or genes that protect the cell from cancer progression (tumor supressor genes), constitute the origin of cancer. 
 

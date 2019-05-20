@@ -1,5 +1,6 @@
 ---
-title: "Methods for data analysis in high throughput-omics applications"
+title: "Development and application of computational methods for cancer subtype detection from high throughput-omics data"
+#title: "Methods for data analysis in high throughput-omics applications"
 author: "Jens Preussner"
 date: "Bad Nauheim, 2019"
 papertype: Cumulative inaugural dissertation
@@ -33,5 +34,5 @@ link-citations: true
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FALSE)
 ```
