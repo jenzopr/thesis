@@ -45,15 +45,29 @@
 
 ## Conclusion
 
-This thesis aimed at providing methodological development within the scope of computational cancer biology and set out to conduct an integrative analysis to investigate the molecular and cellular origin of a childhood cancer, embryonal rhabdomyosarcoma. Two computatinal software solutions have been contributed to enable characterization and quantification of the entire regulatory repertoire of miRNAs from high throughput sequencing experiments, and to facilitate analysis of DNA methylation in a case-control setting. Importantly, the unique statistical approach applied during DNA methylation analysis overcomes previous limitations and enables differential analysis within abitrary genomic regions. 
+This thesis aimed at providing methodological development within the scope of computational cancer biology and set out to conduct an integrative analysis to investigate the molecular and cellular origin of a childhood cancer, embryonal rhabdomyosarcoma. 
 
-- cellular origin of ERMS, molecular origin of ERMS
+Cancer is not xxx, but is caused by a variety of mechanisms, including the misexpression of regulatory factors (miRNAs, transcription factors), structural genomic and epigenomic alterations and disruption of normal tissue context. 
+
+Two algorithms have been contributed to enable characterization and quantification of the entire regulatory repertoire of miRNAs from high throughput sequencing experiments, and to facilitate analysis of DNA methylation. Importantly, the unique statistical approach applied during DNA methylation analysis overcomes previous limitations and enables differential analysis within abitrary genomic regions in a case-control setting. Both algorithms are designed to work generally with all input from RNA sequencing or high-density DNA methlyation arrays, respectively, and can prove beneficial in future studies investigating the molecular origin of many kinds of cancer.
+
+By employment of genetic labelling and direct oncogenic transformation of muscle stem cells, work in this thesis has unambigously shown that the cellular origin of ERMS lies within muscle stem cells. Further, an integrated analysis of genomic mutations (somatic and DNA copy number variation) in mouse and gene expression studies from ~10,000 human cancer patients was used to disclose the molecular origin of ERMS and discover a novel cancer subtype across a broad range of human cancer driven by oncogenic activation of zygotic Dux factors. This thesis additionally provides mechanistic insights into tumor initiation through Duxbl-conferred plasticity of transformed muscle stem cells.
+
+and proposes that tumor progression could follow an epigenetic *hit-and-run* model. 
+
+However, this thesis , but likely requires an additional oncogenic hit for tumor metastasis.
+
+To better understand 
+
+Conclusions highlights the role stem cell quiescence as a potential cellular mechanism to prevent cancer. 
+Future research 
+
 - mechanistic insight in Duxbl tumor formation - quiescence, reintroduction of p53
-- therapeutic stretegy, treatment, personalized medicine
+- therapeutic strategy, treatment, personalized medicine
+
+Ul- timately, methodological advancements will help to interpret and understand data from high-throughput experiments in Rhabdomyosarcoma and potentially lead to the disclo- sure of molecular pathways acting during tumor initiation and progression.
 
 *This part remains to be written. A part of the conclusion could be the role of stem cell quiescence as cellular mechanism to prevent tumorigenesis, another part could ask for the effects of reintroduction of p53 as therapeutic strategy in light of the findings (like an outlook). Further, a link to personaliced medicine should be drawn.*
 
 ## References {-}
 
-`r if (knitr::is_html_output()) '# References {-}'`
-\printbibliography[segment=\therefsegment,heading=subbibliography]
