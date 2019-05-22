@@ -6,7 +6,7 @@ Carsten Kuenne^1,‡^, Jens Preussner^1,‡^, Mario Herzog^1^, Thomas Braun^2^ a
 
 ------------------    ---------------------------------------------------------------------------------------------------------------------
 **Affiliations**      ^1^ Group of Bioinformatics and
-                      ^2^ Department of Cardiac Development and Remodelling 
+                      ^2^ Department of Cardiac Development and Remodeling 
                           Max Planck Institute for Heart and Lung Research
                       ^‡^ These authors contributed equally
 **Journal**           Bioinformatics, *Oxford Journals*
@@ -48,7 +48,7 @@ cat("\\includepdf[pages={-}]{publications/2015_admire.pdf}")
 Jens Preussner^1,2,‡^, Jiasheng Zhong^1,‡^, Krishnamoorthy Sreenivasan^1^, Stefan Günther^1,3^, Thomas Engleitner^4^, Carsten Künne^1,2^, Markus Glatzel^5^, Roland Rad^4^, Mario Looso^2^, Thomas Braun^1,6,7^ and Johnny Kim^1,6^*
 
 ------------------    ---------------------------------------------------------------------------------------------------------------------
-**Affiliations**      ^1^ Department of Cardiac Development and Remodelling
+**Affiliations**      ^1^ Department of Cardiac Development and Remodeling
                       ^2^ Bioinformatics Core Unit (BCU)
                       ^3^ ECCPS Deep Sequencing Platform
                           Max Planck Institute for Heart and Lung Research
