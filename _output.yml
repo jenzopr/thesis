@@ -1,2 +1,12 @@
 bookdown::pdf_book:
-  template: template.tex
+  template: templates/template.tex
+  keep_tex: true
+  # citation_package: biblatex
+rmarkdown::word_document:
+  reference_docx: templates/template.docx
+  toc: TRUE
+  pandoc_args:
+    - "--bibliography=bib/Rationale.bib"
+    - "--bibliography=bib/Background.bib"
+    - "--bibliography=bib/Objectives.bib"
+    - "--bibliography=bib/Discussion.bib"

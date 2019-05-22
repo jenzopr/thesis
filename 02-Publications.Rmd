@@ -19,7 +19,9 @@ Carsten Kuenne^1,‡^, Jens Preussner^1,‡^, Mario Herzog^1^, Thomas Braun^2^ a
 #### Contributed to
 implementation, data analysis, writing
 
-\includepdf[pages={-}]{publications/2014_mirpipe.pdf}
+```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
+cat("\\includepdf[pages={-}]{publications/2014_mirpipe.pdf}")
+```
 
 ## ADMIRE: analysis and visualization of differential methylation in genomic regions using the Infinium HumanMethylation450 Assay
 
@@ -37,7 +39,9 @@ Jens Preussner^1^, Julia Bayer^1^, Carsten Kuenne^1^ and Mario Looso^1^
 #### Contributed to
 implementation, data analysis, writing
 
-\includepdf[pages={-}]{publications/2015_admire.pdf}
+```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
+cat("\\includepdf[pages={-}]{publications/2015_admire.pdf}")
+```
 
 ## A molecular subtype of cancer originating from adult stem cells during regeneration is driven by Dux transcription factors
 
@@ -65,4 +69,8 @@ Jens Preussner^1,2,‡^, Jiasheng Zhong^1,‡^, Krishnamoorthy Sreenivasan^1^, S
 #### Contributed to
 data analysis, writing
 
-\includepdf[pages={-}]{publications/2018_duxbl.pdf}
+```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
+cat("\\includepdf[pages={-}]{publications/2018_duxbl.pdf}")
+```
+
+### References
