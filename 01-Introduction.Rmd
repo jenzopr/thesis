@@ -28,6 +28,9 @@
 ```{r introduction-epigenetics, echo = FALSE, child = "introduction/_epigenetics.Rmd"}
 ```
 
+```{r introduction-integrated-analysis, echo = FALSE, child = "introduction/_integrated-analysis.Rmd"}
+```
+
 ## Lack of knowledge and objectives
 
 ```{r introduction-objectives, echo = FALSE, child = "introduction/_objectives.Rmd"}
