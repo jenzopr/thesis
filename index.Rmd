@@ -30,9 +30,15 @@ preface: |
 chapterstyle: southall
 bibliography: ["bib/Rationale.bib", "bib/Background.bib", "bib/Objectives.bib", "bib/Discussion.bib"]
 biblio-style: "apalike"
-link-citations: true
+# biblio-style: "authoryear"
+# biblatexoptions: [refsegment=chapter]
+link-citations: yes
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FALSE)
+```
+
+```{r env, echo = FALSE}
+#Sys.setenv(RSTUDIO_PDFLATEX="latexmk")
 ```

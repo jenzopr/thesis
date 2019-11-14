@@ -50,5 +50,3 @@
 
 ```{r introduction-conclusion, echo = FALSE, child = "introduction/_conclusion.Rmd"}
 ```
-
-## References {-}

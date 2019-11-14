@@ -72,5 +72,3 @@ data analysis, writing
 ```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
 cat("\\includepdf[pages={-}]{publications/2018_duxbl.pdf}")
 ```
-
-### References
