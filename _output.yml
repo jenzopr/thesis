@@ -1,7 +1,7 @@
 bookdown::pdf_book:
   template: templates/template.tex
   keep_tex: true
-  #latex_engine: xelatex
+  latex_engine: xelatex
   #citation_package: biblatex
 rmarkdown::word_document:
   reference_docx: templates/template.docx
