@@ -2,7 +2,7 @@
 title: "Development and application of computational methods for cancer subtype detection from high throughput-omics data"
 #title: "Methods for data analysis in high throughput-omics applications"
 author: "Jens Preussner"
-date: "Bad Nauheim, 2019"
+date: "Bad Nauheim, 2020"
 papertype: Cumulative inaugural dissertation
 degree: Doctor rerum naturalium (Dr. rer. nat.)
 submitted-to-text: submitted to the
