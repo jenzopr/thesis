@@ -16,8 +16,17 @@ Carsten Kuenne^1,‡^, Jens Preussner^1,‡^, Mario Herzog^1^, Thomas Braun^2^ a
 ------------------    ---------------------------------------------------------------------------------------------------------------------
 
 
-#### Contributed to
-implementation, data analysis, writing
+#### Contributions
+
+The following contributions are attributed to the thesis autor:
+
+| |    |
+|-|----|
+| **Methodology** | Formulation of the graph-based isoMiR handling; Formulation of the benchmark tests |
+| **Investigation** | Performed benchmark tests (Figure 1 and Supplementary File S2) to demonstrate MIRPIPEs capabilities to reproduce findings and proving its predictive efficency |
+| **Software** | Implementation of the graph-based isoMiR handling |
+| **Resources ** | Setup and administration of MIRPIPEs web service |
+| **Writing** | Review and editing of the manuscript |
 
 ```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
 cat("\\includepdf[pages={-}]{publications/2014_mirpipe.pdf}")
@@ -36,8 +45,20 @@ Jens Preussner^1^, Julia Bayer^1^, Carsten Kuenne^1^ and Mario Looso^1^
 **DOI**               10.1186/s13072-015-0045-1
 ------------------    ---------------------------------------------------------------------------------------------------------------------
 
-#### Contributed to
-implementation, data analysis, writing
+#### Contributions
+
+The following contributions are attributed to the thesis autor:
+
+| |   |
+|-|---|
+| **Conceptualization** | Definition of ADMIRE capabilities for analysis and visualization |
+| **Methodology** | Formulation of the software layout, its inputs and outputs; Formulation of ADMIREs differential testing procedure |
+| **Investigation** | Conducted analysis of the RA and AF datasets; Interpretation and discussion of results |
+| **Validation** | Benchmarking ADMIRE against RnBeads; Evaluation of ADMIREs performance |
+| **Software** | Implementation / Programming of ADMIRE |
+| **Visualization** | Creation of Fig. 1 to Fig. 4, Additional files 4 to 8 |
+| **Resources ** | Setup and administration of ADMIREs web service |
+| **Writing** | Preparation of the software manual (Additional File 3); Review and editing of the manuscript |
 
 ```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
 cat("\\includepdf[pages={-}]{publications/2015_admire.pdf}")
@@ -66,8 +87,18 @@ Jens Preussner^1,2,‡^, Jiasheng Zhong^1,‡^, Krishnamoorthy Sreenivasan^1^, S
 **DOI**               10.1016/j.stem.2018.10.011
 ------------------    ---------------------------------------------------------------------------------------------------------------------
 
-#### Contributed to
-data analysis, writing
+#### Contributions
+
+The following contributions are attributed to the thesis autor:
+
+| |    |
+|-|----|
+| **Methodology** | Hypothesis formulation of the role of Duxbl in epithelialization |
+| **Investigation** | Analysis of recurring SNVs and CNVs, previously published discovery cohorts, data from TCGA; investigation of the role of Dux family genes in ZGA; analysis of previously published data from RNA-seq to investigate the role of Duxbl in epithelialization |
+| **Software** | Implementation of software to analyse data from whole-exome sequencing |
+| **Visualization ** | Figures 3C, 3F, 3G, Figure 4, Figure 6 and graphical abstract; Supplementary Figures S3 to S7 |
+| **Resources ** | Tables S1 and S2 supporting CN and SNV analysis; Tables S3, S4 supporting findings from TCGA analysis 
+| **Writing** | Review and editing of the manuscript |
 
 ```{r, results='asis', echo=FALSE, eval=knitr::is_latex_output()}
 cat("\\includepdf[pages={-}]{publications/2018_duxbl.pdf}")
