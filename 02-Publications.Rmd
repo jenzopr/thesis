@@ -23,7 +23,7 @@ The following contributions are attributed to the thesis autor:
 | |    |
 |-|----|
 | **Methodology** | Formulation of the graph-based isoMiR handling; Formulation of the benchmark tests |
-| **Investigation** | Performed benchmark tests (Figure 1 and Supplementary File S2) to demonstrate MIRPIPEs capabilities to reproduce findings and proving its predictive efficency |
+| **Investigation** | Performed benchmark tests (Figure 1 and Supplementary File S2) to demonstrate MIRPIPEs capabilities to reproduce findings and proving its predictive efficiency |
 | **Software** | Implementation of the graph-based isoMiR handling |
 | **Resources ** | Setup and administration of MIRPIPEs web service |
 | **Writing** | Review and editing of the manuscript |
