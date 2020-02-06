@@ -1,6 +1,6 @@
 This thesis provides methodological development in three areas of cancer bioinformatics, targeting detection and quantification of miRNAs, analysis of CpG-site methylation affecting epigenetic mechanism and characterization of the cellular and molecular basis of Rhabdomyosarcoma including detection of cancer subtypes. 
 
-### Sensitive computational quantification of miRNA sequences from high-throughput sequencing
+### Sensitive computational quantification of miRNA sequences from NGS sequencing
 
 MiRNA sequences from MIRPIPE were validated with two complimentary approaches based on genomic mapping and found to be as sensitive as existing methods, recovering 84% and 96% of reference miRNAs respectively. Quantification results of MIRPIPE effectively recapitulated quantification of two gold-standard datasets with Spearman rank correlation values of 0.68 and 0.69, respectively. Specificity of MIRPIPE was higher compared to the approach based on genomic mapping, based on MIRPIPEs strategy to filter out lowly abundant reads prior to graph-based analysis. Characterization of detected miRNA sequences by delineation of putative miRNA target genes was pursued in a follow-up project termed LimiTT [@bayerLimiTTLinkMiRNAs2016] with contributions from the author of this thesis. Briefly, LimiTT integrates several databases of experimentally validated miRNA-target interactions (MTIs) and additionally allows utilisation of data from RNA expression experiments to weight important MTIs via built-in MTI set enrichment analysis.
 
