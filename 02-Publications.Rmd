@@ -21,7 +21,7 @@ Carsten Kuenne^1,‡^, Jens Preussner^1,‡^, Mario Herzog^1^, Thomas Braun^2^ a
 The following contributions are attributed to the thesis autor:
 
 | |    |
-|-|----|
+|-|---|
 | **Conceptualization** | Contributed to definition of project goals |
 | **Methodology** | Formulation of the graph-based isoMiR handling; Formulation of the benchmark tests |
 | **Investigation** | Contributed to interpretation and discussion of results |
@@ -53,7 +53,7 @@ Jens Preussner^1^, Julia Bayer^1^, Carsten Kuenne^1^ and Mario Looso^1^
 The following contributions are attributed to the thesis autor:
 
 | |    |
-|-|----|
+|-|---|
 | **Conceptualization** | Overall definition of project goals; Definition of visualizations |
 | **Methodology** | Design of the software; Formulation of ADMIREs differential testing procedure; Formulation of the benchmark tests |
 | **Investigation** | Conducted analysis of the RA and AF datasets; Contributed to interpretation and discussion of results |
@@ -95,7 +95,7 @@ Jens Preussner^1,2,‡^, Jiasheng Zhong^1,‡^, Krishnamoorthy Sreenivasan^1^, S
 The following contributions are attributed to the thesis autor:
 
 | |    |
-|-|----|
+|-|---|
 | **Conceptualization** | Contributed to definition of project goals; Outlined data analysis strategy |
 | **Methodology** | Hypothesis formulation of the role of Duxbl in epithelialization |
 | **Investigation** | Analysis of recurring SNVs and CNVs, previously published discovery cohorts, data from TCGA; Investigation of the role of Dux family genes in ZGA; Analysis of previously published data from RNA-seq to investigate the role of Duxbl in epithelialization |
