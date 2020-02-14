@@ -1,5 +1,5 @@
 ---
-title: "Development and application of computational methods for cancer subtype detection from high throughput-omics data"
+title: "Development and application of computational methods for cancer subtype detection from -omics data"
 #title: "Methods for data analysis in high throughput-omics applications"
 author: "Jens Preussner"
 date: "Bad Nauheim, 2020"
