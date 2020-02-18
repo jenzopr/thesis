@@ -29,7 +29,8 @@ preface: |
   `r if(knitr:::is_latex_output()) paste(readLines("_preface.Rmd"), collapse = '\n  ')`
 chapterstyle: southall
 bibliography: ["bib/Rationale.bib", "bib/Background.bib", "bib/Objectives.bib", "bib/Discussion.bib"]
-biblio-style: "apalike"
+csl: "apa-no-doi-no-issue.csl"
+#biblio-style: "apa"
 # biblio-style: "authoryear"
 # biblatexoptions: [refsegment=chapter]
 link-citations: yes
