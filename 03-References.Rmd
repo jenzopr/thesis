@@ -1,2 +1,14 @@
+# Gratitude {.unlisted .unnumbered}
+
+I am deeply grateful for the support I received during the last seven years and in particular for the support during the preparation of this thesis and its defense.
+
+I especially would like to thank Mario Looso, Thomas Braun, Alexander Goesmann and Johnny Kim, who have had a major influence on my thesis, my scientific success and my personal development. Thank you for your continous support, many discussions, suggestions, ideas and providing a healthy and productive working environment at the institute.
+
+I further would like to thank Reinhard Dammann and Stefan Jannsen, who willingly agreed to be part of my thesis reviewers, for their time and effort before and during the defense.
+
+Many thanks belong to all members of the Loosolab, i.e. Aditya, Annika, Arsenij, Basti, Carsten, Daniel, Fatemeh, Frank, Franz, Hendrik, Hosro, Julia, Kathrin, Marina, Mette, Mike, Nina, Peter, Philipp, Rene, Stefan, Sweta, Thomas and Vincent. It has been a pleasure working with you and being part of an inspiring group! Thank you, Johannes, Alica, Sylvia, Anja and Chris, for day-to-day inspiring conversations at lunch, in the lab and on the hallways.
+
+Much love and hugs to my brother, Dirk, and my best friends Fabian, Julian, Till, Sebbl and Lukas for our long-lasting friendship and the wonderful time we have had together so far. Finally, I am deeply thankful for my parents, their presence, love and the unconditional support I receive day-to-day. 
+
 # References
 
